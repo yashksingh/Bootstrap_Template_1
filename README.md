@@ -73,8 +73,8 @@ Major changes include:
 - Responsive structures and styles.
 - Several JavaScript plugins using the jQuery.
 - Lightweight and customizable.
-- Good documentation and community support.
 - Time Saving.
+- Good documentation and community support.
 
 
 
