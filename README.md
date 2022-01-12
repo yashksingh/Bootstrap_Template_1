@@ -76,6 +76,6 @@ Major changes include:
 - Time Saving.
 - Good documentation and community support.
 
+<hr>
 
-
-
+Note: All the Images used in this repository are taken from the website UnSplash.
